@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gin-contrib/pprof"
-	"github.com/gin-gonic/gin"
+	"github.com/LambdaTest/gin"
+	"github.com/LambdaTest/pprof"
 )
 
 func main() {
